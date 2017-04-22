@@ -1,6 +1,6 @@
-				Peli-XR
+Peli-XR
 
-			Forked from SuperBerny70.
+Forked from SuperBerny70.
 
 Objective:
 	Update the Peli-XR plugin to support new versions of Movian (showtime).
